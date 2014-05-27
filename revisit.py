@@ -5,3 +5,7 @@ for i in range(5):
 	for j in range(5):
 		print "*",
 	print ""
+	
+for i in range (100):
+	if(i%2==0):
+		print i
